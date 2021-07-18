@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">API_sample</string>
+    <string name="push_button">PUSH!</string>
 </resources>
